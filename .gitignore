@@ -1,0 +1,20 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas generadas
+build/
+dist/
+out/
+target/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# NetBeans
+nbproject/private/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
