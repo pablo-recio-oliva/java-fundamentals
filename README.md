@@ -42,7 +42,7 @@ Java · Programación orientada a objetos · Consola · NetBeans · Git
 
 ## 📄 Licencia
 
-Este proyecto está bajo licencia Apache 2.0. Ver [LICENSE](./LICENSE).
+Este proyecto está distribuido bajo la licencia **MIT**. Consulta el archivo [LICENSE](./LICENSE) para obtener más información.
 
 ---
 
