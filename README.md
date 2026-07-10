@@ -46,4 +46,4 @@ Este proyecto está bajo licencia Apache 2.0. Ver [LICENSE](./LICENSE).
 
 ---
 
-Desarrollado por **Pablo Recio** como parte de la formación DAM · [LinkedIn](#) · [Portfolio](#)
+Desarrollado por **Pablo Recio Oliva** como parte de la formación DAM · [LinkedIn](#) · [Portfolio](#)
