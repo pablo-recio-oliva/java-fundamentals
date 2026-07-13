@@ -46,4 +46,4 @@ Este proyecto está distribuido bajo la licencia **MIT**. Consulta el archivo [L
 
 ---
 
-Desarrollado por **Pablo Recio Oliva** como parte de la formación DAM · [LinkedIn](#) · [Portfolio](#)
+Desarrollado por **Pablo Recio Oliva** como parte de la formación DAM · [LinkedIn](https://www.linkedin.com/in/pablo-recio-oliva/)
